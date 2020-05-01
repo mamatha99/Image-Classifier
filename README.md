@@ -4,3 +4,6 @@ Going forward, AI algorithms will be incorporated into more and more everyday ap
 In this project, you'll train an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice you'd train this classifier, then export it for use in your application. We'll be using the dataset from Oxford of 102 flower categories, you can see a few examples below.
 
 When you've completed this project, you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset. 
+
+
+This Project belongs to Udacity Nanodegree and copyrights belongs to Udacity.
