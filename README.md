@@ -6,4 +6,3 @@ In this project, you'll train an image classifier to recognize different species
 When you've completed this project, you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset. 
 
 
-This Project belongs to Udacity Nanodegree and copyrights belongs to Udacity.
